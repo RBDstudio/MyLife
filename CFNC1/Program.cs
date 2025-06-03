@@ -4,14 +4,14 @@ namespace CFNC1
 {
     internal class Program
     {
-        public static int Hight = 28;
+        public static int Hight = 50;
         public static int Weight = 119;
 
         public static int StartCoutn = 300;
         public static int StepTime = 50;
 
-        public static int MinForLife = 3;
-        public static int MaxForLife = 4;
+        public static int MinForLife = 2;
+        public static int MaxForLife = 7;
 
         public static int MinForSpawn = 3;
         public static int MaxForSpawn = 3;
